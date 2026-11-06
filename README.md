@@ -18,7 +18,7 @@
 [![UI Retro CRT](https://img.shields.io/badge/ui-MS--DOS%20CRT-ffb000.svg?style=for-the-badge)](https://github.com/FluxzyCorporations/.BAT)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-FluxzyCorporations%2F.BAT-white.svg?style=for-the-badge&logo=github&logoColor=black)](https://github.com/FluxzyCorporations/.BAT)
 
-[Sitio Web / Instalador](website/index.html) • [Repositorio Oficial](https://github.com/FluxzyCorporations/.BAT) • [Descargar ZIP](website/downloads/BAT_v1.0.zip)
+[Sitio Web / Instalador](website/index.html) • [Repositorio Oficial](https://github.com/FluxzyCorporations/.BAT) • [Descargar ZIP v1.0](https://github.com/FluxzyCorporations/.BAT/releases/download/Scripts/BAT_v1.0.zip)
 
 </div>
 
